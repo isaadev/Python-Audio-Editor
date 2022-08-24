@@ -12,6 +12,7 @@ Using this program, you can add any of the following effects to your audio:
 
 
 ## Before you use
+- numpy and PyDub Python libraries
 - Make sure you have the audio file you want to manipulate within the same directory as this project's directory.
 - Also, make sure you have ffmpeg downloaded in your PATH 
 
